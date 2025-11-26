@@ -7,7 +7,7 @@ This project presents an end-to-end Power BI dashboard built by merging and tran
 ## 📊 Dashboard Preview
 
 ### Dashboard 1: Emotional & Behavioral Wellbeing
-*(Screenshot placeholders for repo)*
+![Dashboard Screenshot](https://github.com/Tatheer-Za-ra/Power-Bi-Project-Mental-Health-and-Social-Media-Dataset/blob/main/Dashboard%201.png)
 
 - **Avg Happiness Index**
 - **Avg Depression Score**
@@ -17,7 +17,7 @@ This project presents an end-to-end Power BI dashboard built by merging and tran
 - **Screen Time vs Stress Correlation**
 
 ### Dashboard 2: Digital Habits & Lifestyle Metrics
-*(Screenshot placeholders for repo)*
+![Dashboard Screenshot](https://github.com/Tatheer-Za-ra/Power-Bi-Project-Mental-Health-and-Social-Media-Dataset/blob/main/Dashboard%202.png)
 
 - **Avg Daily Screen Time**
 - **Avg Distraction Score**
