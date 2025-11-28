@@ -111,7 +111,7 @@ Two datasets from Kaggle were merged using `User_ID` as the key:
 | Screen Time vs Stress | Stress increases sharply at 7–10 hrs/day |
 | Worry Levels by Age | Younger users report more frequent worrying |
 
-### From Dashboard 2 (Newly Added)
+### From Dashboard 2
 
 | KPI | Description |
 |-----|-------------|
